@@ -1,0 +1,23 @@
+.navbar-item {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.navbar-item::after {
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    height: 2px;
+    width: 0;
+    background-color: yellow;
+    transition: width 0.3s ease-in-out;
+    transform: translateX(-50%);
+}
+
+.navbar-item:hover::after {
+    width: 100%;
+    left: 50%; /* Adjusts to start from the left edge */
+    transform: translateX(-50%); /* Reset transformation */
+}

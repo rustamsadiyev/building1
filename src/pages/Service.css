@@ -1,0 +1,36 @@
+
+
+/* Animation for sliding in from left */
+@keyframes slideInLeft {
+  0% {
+    transform: translateX(-100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+/* Animation for sliding in from right */
+@keyframes slideInRight {
+  0% {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+/* Style for sliding from left */
+.from-left {
+  animation: slideInLeft 1s ease forwards;
+}
+
+/* Style for sliding from right */
+.from-right {
+  animation: slideInRight 1s ease forwards;
+}
+
