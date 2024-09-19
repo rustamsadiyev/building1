@@ -12,3 +12,4 @@ Currently, two official plugins are available:
 # rustam_buid_repost
 # rustam_buid_repost
 # building1
+# building1
