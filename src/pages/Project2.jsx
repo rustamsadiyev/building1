@@ -53,7 +53,7 @@ function Projects() {
         </div>
       </div>
 
-      <div className="image-container relative sm:max-md:w-[90%] sm:max-md:m-auto h-[50vh] sm:max-md:mb-4 md:max-lg:flex md:max-lg:flex-col md:max-lg:w-full">
+      <div className=" image-container relative bottom-12 sm:max-md:w-[90%] sm:max-md:m-auto h-[50vh] sm:max-md:mb-4 md:max-lg:flex md:max-lg:flex-col md:max-lg:w-full">
         <img src="./images/presidential.webp" alt="Presidential School" className="image max-w-lg" />
         <div className="context">
           <h2 className="text-3xl">Presidential School</h2>
@@ -61,7 +61,7 @@ function Projects() {
         </div>
       </div>
 
-      <div className="image-container relative sm:max-md:w-[90%] sm:max-md:m-auto h-[50vh] sm:max-md:mb-4 md:max-lg:flex md:max-lg:flex-col md:max-lg:w-full">
+      <div className="image-container  relative bottom-12 sm:max-md:w-[90%] sm:max-md:m-auto h-[50vh] sm:max-md:mb-4 md:max-lg:flex md:max-lg:flex-col md:max-lg:w-full">
         <img src="./images/boulevard.webp" alt="Boulevard" className="image max-w-lg" />
         <div className="context">
           <h2 className="text-3xl">Boulevard</h2>

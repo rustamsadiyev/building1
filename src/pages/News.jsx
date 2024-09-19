@@ -1,7 +1,5 @@
 import React from "react";
 import { useTranslation } from 'react-i18next';
-import { Link } from 'react-router-dom';
-import { useState } from "react";
 
 function News() {
 
@@ -15,7 +13,7 @@ function News() {
 
   return (
     <>
-      <div id="news" className="news w-full bg-gray-100 h-full py-20 md:max-tablet:overflow-hidden">
+      <div id="news" className="news w-full bg-gray-100 h-full py-10 md:max-tablet:overflow-hidden">
         <div className="container w-[1110px] m-auto md:max-tablet:w-screen sm:max-md:w-screen">
           <h1 className="text-2xl pb-4">{t("barcha yangiliklarimiz")}</h1>
           <div

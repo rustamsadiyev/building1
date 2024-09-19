@@ -47,7 +47,7 @@ function Company() {
                     <div className="title text-3xl font-bold sm:max-md:text-2xl">
                         {t("obuna")}
                     </div>
-                    <div className="numbers text-black flex gap-28 sm:max-md:flex sm:max-md:justify-center sm:max-md:align-middle flex-wrap  sm:max-md:gap-6 sm:max-md:items-center">
+                    <div className="numbers flex gap-28 sm:max-md:flex sm:max-md:justify-center sm:max-md:align-middle flex-wrap  sm:max-md:gap-6 sm:max-md:items-center">
                         <div className="number mt-20 sm:max-md:mt-5">
                             <h1 className="text-5xl font-bold sm:max-md:text-3xl">{employees} +</h1>
                             <h2 className="text-lg font-bold pl-2 sm:max-md:pl-0">{t("ishchilar soni")}</h2>

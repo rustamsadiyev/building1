@@ -13,7 +13,7 @@ import Footer from './Footer'
 
 function Home() {
     return (
-    <>
+    <div className="overflow-hidden" >
         <Header/>
         <Service/>
         <Company/>
@@ -24,7 +24,7 @@ function Home() {
         <Constructor/>
         <Message/>
         <Footer/>    
-    </>
+    </div>
     )
 }
 

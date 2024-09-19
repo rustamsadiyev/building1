@@ -75,7 +75,7 @@
 }
 
 .image-container:hover .context {
-  bottom: 60%;
+  bottom: 50%;
   opacity: 1;
 }
 
@@ -120,7 +120,7 @@
 
 .context {
   position: absolute;
-  bottom: -100%;
+  bottom: -90%;
   left: 0;
   right: 0;
   padding: 10px;
@@ -132,6 +132,6 @@
 
 .image-container:hover .context {
   bottom: 10%;
-  opacity: 1; 
+  opacity: 2; 
 }
 }

@@ -51,7 +51,7 @@ function Service() {
               <div className="service-content text-xl pl-6 sm:max-md:text-base sm:max-md:pl-0">
                 <h1>{t("professionallar jamoasi")}</h1>
               </div>
-              <img src="./nextimages/images/service4.png" alt="rasm bor" className="max-w-64 sm:max-md:w-[40%] sm:max-md:h-auto sm:max-md:object-contain 
+              <img src="./nextimages/images/service4.png" alt="rasm bor" className="max-w-64 pb-10 sm:max-md:w-[40%] sm:max-md:h-auto sm:max-md:object-contain 
               ipad:max-lg:w-[40%] ipad:max-lg:h-auto ipad:max-lg:object-contain  
               md:max-ipad:w-[40%] md:max-ipad:h-auto md:max-ipad:object-contain" />
             </div>

@@ -11,7 +11,7 @@
     "magic city": "This is a project of significant social importance. The cultural and entertainment cluster in Tashkent is one of the new landmarks.",
     "gardens residence": "A multifunctional residential complex created to provide convenience for the people of Uzbekistan.",
     "fonon": "A luxurious residential complex in the center of the capital.",
-    "invento": "Fonon - a jewelry production plant established in Uzbekistan in 2020 based on Italian factories. Fonon is the only major enterprise in Central Asia producing jewelry from precious metals in European and Eastern styles.",
+    "invento": "Fonon - a jewelry production plant established in Uzbekistan in 2020 based on Italian factories. Fonon is the only producing jewelry from precious metals in European and Eastern styles.",
     "presidential": "An international kindergarten and school located in Tashkent City International Business Center.",
     "boulevard": "An educational institution providing international-level education.",
     "kompaniyamiz": "Our Company",
@@ -54,6 +54,13 @@
   "batafsil bilish": "Learn more",
   "savollar": "Do you have any questions, suggestions, or appeals?",
   "yuborish": "Send",
-  "obuna": "Subscribe to our social media"
+  "obuna": "Subscribe to our social media",
+
+  "ATAEV BAHODIR BUILD haqida": "About ATAEV BAHODIR BUILD",
+  "bosh sahifa": "Home",
+  "about": "We don't just create projects; we create new opportunities. By constructing state-level facilities, we are building the future. We care about the environment: the company takes full responsibility for the environmental aspects associated with the construction and operation of buildings and infrastructure.",
+  "boshqa":"Other",
+  "baholash":"Marking"
+
   }
   
