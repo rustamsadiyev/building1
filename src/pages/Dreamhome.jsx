@@ -20,7 +20,7 @@ function Dreamhome() {
         <>
             <div className="dream-home ">
                 <div className="home-title mb-5 flex justify-center">
-                    <h1 className='text-2xl font-bold'>{t('sizning orzudaki uyingiz')}</h1>
+                    <h1 className='text-2xl font-bold'>{t('sizning orzudaki maxala')}</h1>
                 </div>
                 <div className="home-images grid grid-cols-3 sm:max-md:grid-cols-2">
                     <div className="house-1">
